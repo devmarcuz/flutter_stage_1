@@ -1,16 +1,9 @@
-# flutter_learn_basics
+# Personal Details Mobile App
 
-A new Flutter project.
+This is a simple Flutter mobile application that prominently features your Slack identity, incorporates your Slack profile picture, and includes an "Open GitHub" button. When pressed, this button utilizes a WebView component to redirect users to your GitHub profile within the application itself.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Slack Name:** The application's main screen prominently displays your Slack name.
+- **Display Picture:** Your Slack display picture is integrated onto the main screen, ensuring it's clear and of high quality.
+- **Open GitHub Button:** An "Open GitHub" button is added to the main screen. When pressed, it correctly redirects users to your GitHub profile using a WebView component within the application.
